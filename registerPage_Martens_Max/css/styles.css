@@ -1,0 +1,47 @@
+body
+{
+    background-color: rgb(160, 236, 241);
+}
+
+input
+{
+    background-color: rgb(173, 216, 219);
+    width: 1900px;
+    height: 40px;
+}
+
+h1
+{
+    font-size: 50px;
+    text-align: center;
+}
+
+.submit
+{
+    width: 1904px;
+    height: 40px;
+    
+}
+
+.register-button
+{
+    font-size: 50px;
+    background-color: red;
+    padding: 50px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 100px;
+    margin-top: 300px;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.register-button:hover
+{
+    background-color: rgb(253, 128, 128);
+}
